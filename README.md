@@ -111,20 +111,6 @@ The backend will run at:
 http://127.0.0.1:8000
 ```
 
-## Frontend Setup
-
-Open a second terminal from the project root:
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-The frontend will run at:
-
-```text
-http://localhost:5173
 ```
 
 Keep both the backend and frontend servers running while using the app.
